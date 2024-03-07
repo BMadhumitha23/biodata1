@@ -1,0 +1,87 @@
+j<html>
+    <head>
+        <title>data</title>
+    </head>
+    <body  bgcolor="CCCCCC">
+        <marquee>
+        <h1 style="border:2px solid black; background-color:#684FA3s"><center>RESUME</center></h1>
+    </marquee>
+        <img src="C:\Users\Mathumitha\Downloads\IMG_20240306_232419.jpg" alt="errors" align="right" width="150" height="150">
+        <h2><u>Madhumitha Balamurugan</u></h2>
+        <h2><u>Email:</u>maddhumithab.22it@kongu.edu</h2>
+        <h2><u>Contact No.</u>+91-7904108745</h2>
+        <h2><u>Specialization:</u>web Developer</h2>
+        <hr>
+        <h2 style="border:2px solid black; background-color:#684FA3"><u>Objective:</u></h2>
+         <h2><i>To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.</i></h2>
+        <h2 style="border:4px solid black; background-color:#684FA3"><u>Education details:</u> </h2>
+        <table border="2px">
+            <tr>
+                <th><i>Number of degree</i></th>
+                <th><i>Name of institution</i>/th>
+                <th><i>Year of pass</i></th>
+                <th><i>Percentge</i></th>
+            </tr>
+            <tr>
+                <td>10th</td> 
+                <td><i>GOVT High Secondray School</i></td>
+                <td>2020</td>
+                <td>7.2%</td>
+            </tr>
+            <tr>
+                <td>12th</td>
+                <td><i>GOVT High Secondray School</i></td>
+                <td>2022</td>
+                <td>7.5%</td>
+            </tr>
+            <tr>
+                <td><i>college</i></td>
+                <td><i>Kongu Engineerinf College</i></td>
+                <td>2026</td>
+                <td>7.7%</td>
+            </tr>
+        </table>
+        <h2 style="border:2px solid black; background-color:#684FA3"><u>Area of interet:</u></h2>
+        <ol><i>
+            <li style="font-size:20px">Programming Languages: Java, Python, C++.</li>
+            <li style="font-size:20px">Web Development: HTML, CSS, JavaScript.</li>
+            <li style="font-size:20px">Database Management: MySQL.</li>
+            </i>
+        </ol>
+        <h2 style="border:2px solid black; background-color:#684FA3"><u>Paper Presentation:</u></h2>
+        <ol>
+            <li style="font-size:20px"><i>Paper report on 'cloud computing' at Kongu Engineering College.</i></li>
+        </ol>
+        <h2 style="border:2px solid black; background-color:#684FA3"><u>Skill Abrodation:</u></h2>
+        <ol><i>
+            <li style="font-size:20px">CSS (Basic) in HAckerRank.</li>
+            <li style="font-size:20px">SQL (Intermediate) inHackerRank.</li>
+            </i>
+        </ol>
+        <h2 style="border:2px solid black; background-color:#684FA3 "><u>Extra Curricilar Activities:</u></h2>
+        <ol><i>
+            <li style="font-size:20px">Got 1st place in the Anna universty zone-16 for Ball Badmintin in 2023.</li>
+            <li style="font-size:20px">Got 4th place in Centies Trounment for Ball Badmintion in 2024.</li>
+            <li style="font-size:20px">Got 2nd place in Chief Minster Trophy for Ball Badmintion in 2020.</li>
+            </i>
+        </ol>
+        <h2 style="border:2px solid black; background-color:#684FA3"><u>Skills:</u></h2>
+        <h2><i style="font-size:20px">good communication, operating computer and internet, dispute solving, reading, writing, presentation skills, business report making, good negotiator and bargainer, management skills Swimming, cooking.</i></h2>
+        <h2 style="border:2px solid black; background-color:#684FA3"><u>Hobbies:</u></h2>
+        <ol><i>
+            <li style="font-size:20px">I like singing and listening songs.</li>
+            <li style="font-size:20px">I like to play Badminton in the weekends.</li>
+            <li style="font-size:20px">I like to visit historical places.</li>
+            </i>
+        </ol>
+        <h2 style="border:2px solid black; background-color:#684FA3"><u>Personal Details:</u></h2>
+        <h2>Full Name:<i>Madhumitha Balamurugan</i></h2>
+        <h2>Date of Birth:<i>23-Mar-05</i></h2>
+        <h2>Gender:<i>Female</i></h2>
+        <h2>Language:<i>Tamil,English</i></h2>
+        <h2>Address:<i>1/141 Mettala Kuttai Veedu ,Rasipuram(TK),Namakkal(DT), Tamil Nadu.</i></h2>
+        <br><br>
+        <h2><i>Madhumitha Balamurugan</i></h2>
+        <marquee><h2 style="border:1px solid black; background-color:#684FA3"><i><center>THANK YOU</center></i></h2></marquee>
+    </body>
+</html>
